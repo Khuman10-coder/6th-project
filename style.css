@@ -1,0 +1,30 @@
+.main{
+    padding-left:250px ;
+}
+ nav{
+  top: 0px;
+    position: fixed;
+    left: 0;
+   height: 100vh;
+    display: flex;
+    flex-direction: column;
+   padding-top: 80px;
+    width: 250px;
+   background-color:  #0F172A;
+   color:  #F8FAFC;
+   gap: 15px;
+  }
+  nav a{
+    
+    padding: 15px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    color:  #F8FAFC;
+  }
+  nav a:hover{
+   background-color: deeppink;
+   }
+   image{
+    width:13% ;
+   }
