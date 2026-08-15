@@ -1,6 +1,10 @@
 .main{
     padding-left:250px ;
 }
+  body{
+    background: #f1f5f9;
+    color: #0f172a;
+  }
  nav{
   top: 0px;
     position: fixed;
@@ -23,8 +27,24 @@
     color:  #F8FAFC;
   }
   nav a:hover{
-   background-color: deeppink;
+   background-color:#ec0a8c;
    }
-   image{
-    width:13% ;
+   img{
+    width:79% ;
+    height:300px ;
+   }
+   .p{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+   
+   }
+   .f{
+    display: block;
+    width: 30%;
+    height:500px ;
+    margin: 2px 10px;
+   }
+   #se{
+    float: right;
    }
