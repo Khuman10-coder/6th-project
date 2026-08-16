@@ -36,3 +36,5 @@ JavaScript — Search functionality and API requests
 # how to see this
 -U can visit my website in any webbrowser with the link "https://khumanmovies.netlify.app/" or if u want to see the source code u can visit my code in github in this link- "https://github.com/Khuman10-coder/6th-project".
 
+# wanna know me?
+- If u are intrested in building a project together or just want to talk about something then feel free to reach out !!
