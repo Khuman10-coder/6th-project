@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://scontent.fkep3-1.fna.fbcdn.net/v/t1.15752-9/776323208_1355290026769114_1882632620280614696_n.png?stp=dst-png_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=-Aq03CFbPWQQ7kNvwGiRyMP&_nc_oc=AdqRyU3yLA45y6wEEp-eFjWHvI8Bj7dlrP4GZFpkZvlmowT_RAaME1WTLWw9S7E_thI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fkep3-1.fna&_nc_ss=7a22e&oh=03_Q7cD6AHNp0vJmOh7xbMSwU4tFiJAvE7BoLXrzvZcGUaKJpsZaQ&oe=6AA920F2" alt="Movie Explorer Screenshot" width="900">
 </div>
+<img width="1365" height="635" alt="image" src="https://github.com/user-attachments/assets/f9ac5983-8e48-4030-8ab4-933db547a79b" />
 
 
 I made this website by using html,css and some js . it is a simple website as i mainly focused in the layout.
